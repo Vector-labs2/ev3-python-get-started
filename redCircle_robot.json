@@ -1,0 +1,15 @@
+{
+  "wheeldiameter": 105,
+  "wheelSpacing": 130,
+  "back": -120,
+  "weight": "weightless",
+  "sensor1": {
+    "x": 0,
+    "y": 0
+  },
+  "ultrasonic": {
+    "x": 0,
+    "y": 20,
+    "angle": 0
+  }
+}
